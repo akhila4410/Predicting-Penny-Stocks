@@ -1,5 +1,5 @@
 ## Predicting Penny Stocks
-#Project Overview :
+Project Overview :
  This project involves the analysis and modeling of stock data using
  machine learning. The project is divided into two main files: one for data
  collection and the other for building and evaluating machine learning
@@ -9,14 +9,14 @@
  The data collection process involves obtaining stock data for 495 stocks
  using the Yfinance library. To reduce the hassle of running the data
  retrieval code each time, the data has been pre-downloaded and saved
- as a CSVfile. Additionally, a detailed PDF document is provided,
+ as a CSV file. Additionally, a detailed PDF document is provided,
  containing the code and outputs of each cell in the data collection file.
 
   Data Retrieval Code File: data_collection.ipynb
   
   Data CSV File: stock_data.csv
 
- 3. Machine Learning Models (LR- Linear Regression)
+ 2. Machine Learning Models (LR- Linear Regression)
  The machine learning part focuses on building and evaluating models
  using the stock data obtained. The code is organized in a Colab
  notebook named LR.ipynb. To run this notebook successfully, follow the
