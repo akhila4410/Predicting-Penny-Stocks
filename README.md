@@ -10,10 +10,12 @@ Project Overview :
  retrieval code each time, the data has been pre-downloaded and saved
  as a CSVfile. Additionally, a detailed PDF document is provided,
  containing the code and outputs of each cell in the data collection file.
+
  Data Retrieval Code File: data_collection.ipynb
+ 
  Data CSV File: stock_data.csv
  
- 2. Machine Learning Models (LR- Linear Regression)
+ 3. Machine Learning Models (LR- Linear Regression)
  The machine learning part focuses on building and evaluating models
  using the stock data obtained. The code is organized in a Colab
  notebook named LR.ipynb. To run this notebook successfully, follow the
